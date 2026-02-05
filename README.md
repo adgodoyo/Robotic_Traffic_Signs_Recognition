@@ -145,4 +145,4 @@ docker-container/
 
 ## Acknowledgements
 
-This project was prepared based on various online resources, including the Docker image and simulation environment originally developed by Dr Sen Wang (Imperial College London) for the ELEC70120 module.
+This project was prepared based on various online resources, including the Docker image and simulation environment originally developed by Dr Sen Wang
